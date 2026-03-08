@@ -1,0 +1,101 @@
+Respondent_ID,Gender,Education,Age_Group,Transport_Usage,Traffic_Congestion_Frequency,AI_Helpful_Traffic_Management,AI_Prevent_Accidents,Driverless_Vehicle_Opinion,AI_Reduce_Road_Accidents,AI_Prominent_Field,Biggest_Traffic_Challenge,Congestion_Cause,AI_Implementation_Tech,Support_Traffic_Cameras,Real_Time_Traffic_Updates_Importance,Traffic_System_Rating
+1,Male,Bachelor's degree,18-25,Weekly,Monthly,Yes,Sometimes,Helpful,May be,Autonomous vehicles,Inefficient traffic signal management,Accidents,Cameras,Somewhat,Very important,3
+2,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Yes,Helpful,Yes,Accident prevention,Inefficient traffic signal management,Rush hour,Cameras,Yes,Somewhat important,3
+3,Female,Bachelor's degree,18-25,Daily,Weekly,Yes,Sometimes,No idea,Yes,Smart traffic lights,Inefficient traffic signal management,Rush hour,Cameras,Yes,Very important,4
+4,Female,Bachelor's degree,18-25,Weekly,Rarely,No,Yes,Beneficial,Yes,Accident prevention,Inefficient traffic signal management,Accidents,Cameras,No,Somewhat important,1
+5,Prefer not to say,Bachelor's degree,18-25,Weekly,Daily,No,Yes,Helpful,No,Accident prevention,Inefficient traffic signal management,Accidents,No idea,No,Somewhat important,3
+6,Female,Bachelor's degree,18-25,Daily,Monthly,Yes,Yes,Dangerous,Yes,Smart traffic lights,Inefficient traffic signal management,Road construction,Sensors,Yes,Not very important,3
+7,Female,High school,18-25,Weekly,Rarely,May be,Yes,Helpful,May be,Accident prevention,Lack of real-time traffic monitoring,Accidents,No idea,Somewhat,Somewhat important,4
+8,Female,Bachelor's degree,18-25,Weekly,Daily,Sometimes,Yes,No idea,No,Smart traffic lights,Inefficient traffic signal management,Rush hour,Cameras,Somewhat,Somewhat important,5
+9,Prefer not to say,Bachelor's degree,18-25,Weekly,Monthly,Yes,Yes,No idea,May be,Accident prevention,Inefficient traffic signal management,Rush hour,Sensors,Yes,Not very important,3
+10,Female,Doctoral degree,18-25,Weekly,Weekly,Yes,Yes,Dangerous,May be,Autonomous vehicles,Lack of real-time traffic monitoring,Rush hour,Cameras,Somewhat,Very important,3
+11,Prefer not to say,Bachelor's degree,18-25,Monthly,Weekly,May be,Yes,Helpful,Yes,Smart traffic lights,Lack of real-time traffic monitoring,Accidents,Sensors,Somewhat,Not very important,4
+12,Female,Master's degree,Above 40,Daily,Daily,Yes,Sometimes,No idea,Yes,Adaptive traffic control system,None,Accidents,Cameras,Yes,Somewhat important,4
+13,Female,Bachelor's degree,18-25,Weekly,Weekly,No,Yes,Helpful,May be,Adaptive traffic control system,Inefficient traffic signal management,Accidents,Sensors,Yes,Somewhat important,3
+14,Female,Bachelor's degree,18-25,Rarely,Weekly,May be,Sometimes,Helpful,May be,Autonomous vehicles,Inefficient traffic signal management,Road construction,Cameras,Yes,Very important,4
+15,Male,Master's degree,18-25,Daily,Daily,May be,No idea,Beneficial,May be,Smart traffic lights,Inefficient traffic signal management,Road construction,Sensors,Somewhat,Somewhat important,4
+16,Prefer not to say,Bachelor's degree,Above 40,Daily,Weekly,Yes,Sometimes,Beneficial,Yes,Adaptive traffic control system,None,Road construction,Cameras,No,Not very important,1
+17,Prefer not to say,Bachelor's degree,18-25,Monthly,Rarely,Yes,Yes,Dangerous,May be,Accident prevention,None,Road construction,Sensors,Yes,Very important,3
+18,Female,Bachelor's degree,Above 40,Rarely,Daily,May be,Sometimes,Dangerous,Yes,Accident prevention,Inefficient traffic signal management,Weather conditions,Sensors,Somewhat,Very important,1
+19,Male,Bachelor's degree,18-25,Daily,Daily,May be,No idea,Helpful,Yes,Autonomous vehicles,Inefficient traffic signal management,Accidents,Drones,Somewhat,Not very important,3
+20,Female,High school,18-25,Daily,Daily,Yes,Yes,Beneficial,Yes,Adaptive traffic control system,Lack of real-time traffic monitoring,Road construction,No idea,Yes,Very important,4
+21,Female,Master's degree,18-25,Weekly,Daily,Yes,Sometimes,Beneficial,Yes,Adaptive traffic control system,Inefficient traffic signal management,Road construction,No idea,Somewhat,Somewhat important,3
+22,Female,Bachelor's degree,18-25,Weekly,Daily,Yes,Yes,Dangerous,May be,Accident prevention,Inefficient traffic signal management,Rush hour,Sensors,Somewhat,Somewhat important,1
+23,Male,Bachelor's degree,18-25,Daily,Daily,Yes,Sometimes,Dangerous,No,Accident prevention,Lack of real-time traffic monitoring,Rush hour,Cameras,Yes,Somewhat important,3
+24,Male,Bachelor's degree,18-25,Daily,Daily,Yes,Sometimes,No idea,Yes,Autonomous vehicles,Lack of real-time traffic monitoring,Accidents,Sensors,Yes,Somewhat important,3
+25,Female,Bachelor's degree,18-25,Rarely,Daily,Yes,Yes,Beneficial,Yes,Accident prevention,Inefficient traffic signal management,Accidents,No idea,Yes,Not very important,5
+26,Female,Doctoral degree,18-25,Monthly,Weekly,Yes,Yes,No idea,Yes,Adaptive traffic control system,Lack of real-time traffic monitoring,Rush hour,Cameras,Yes,Somewhat important,1
+27,Female,Bachelor's degree,18-25,Weekly,Weekly,Yes,Sometimes,Beneficial,Yes,Autonomous vehicles,Inefficient traffic signal management,Rush hour,Sensors,Yes,Very important,4
+28,Female,Bachelor's degree,18-25,Daily,Monthly,Yes,Yes,Helpful,May be,Accident prevention,Inadequate traffic enforcement,Road construction,Sensors,Yes,Very important,4
+29,Male,Bachelor's degree,25-40,Daily,Daily,No,Yes,No idea,May be,Accident prevention,Inefficient traffic signal management,Road construction,Sensors,No,Very important,5
+30,Male,Bachelor's degree,18-25,Monthly,Daily,May be,Yes,Beneficial,Yes,Adaptive traffic control system,None,Rush hour,Drones,Somewhat,Somewhat important,3
+31,Male,Doctoral degree,18-25,Daily,Daily,May be,Sometimes,Dangerous,May be,Autonomous vehicles,Inefficient traffic signal management,Accidents,Cameras,Somewhat,Not very important,3
+32,Female,Bachelor's degree,18-25,Daily,Daily,May be,Yes,No idea,May be,Accident prevention,Lack of real-time traffic monitoring,Rush hour,Sensors,Yes,Somewhat important,3
+33,Female,High school,18-25,Monthly,Monthly,Yes,Yes,Beneficial,May be,Adaptive traffic control system,Inadequate traffic enforcement,Rush hour,Sensors,Somewhat,Very important,4
+34,Male,Bachelor's degree,18-25,Daily,Rarely,Yes,Yes,Helpful,Yes,Smart traffic lights,Inefficient traffic signal management,Weather conditions,No idea,Somewhat,Very important,4
+35,Female,Bachelor's degree,18-25,Daily,Weekly,Yes,Yes,No idea,Yes,Adaptive traffic control system,Inefficient traffic signal management,Accidents,Cameras,Yes,Very important,5
+36,Female,High school,18-25,Daily,Daily,No,Yes,Helpful,May be,Accident prevention,Inefficient traffic signal management,Road construction,Cameras,Somewhat,Very important,4
+37,Female,Bachelor's degree,18-25,Weekly,Monthly,Yes,Yes,No idea,May be,Adaptive traffic control system,Lack of real-time traffic monitoring,Weather conditions,No idea,Yes,Not very important,4
+38,Female,Bachelor's degree,18-25,Monthly,Monthly,May be,Yes,Beneficial,May be,Smart traffic lights,Inefficient traffic signal management,Rush hour,Sensors,Somewhat,Not very important,2
+39,Male,Bachelor's degree,18-25,Daily,Rarely,Yes,Sometimes,Dangerous,No,Adaptive traffic control system,Inefficient traffic signal management,Accidents,Sensors,Yes,Not very important,4
+40,Female,Bachelor's degree,25-40,Daily,Weekly,Yes,Yes,Beneficial,May be,Smart traffic lights,Lack of real-time traffic monitoring,Accidents,Sensors,Yes,Somewhat important,4
+41,Male,Bachelor's degree,18-25,Weekly,Daily,May be,Yes,Dangerous,No idea,Adaptive traffic control system,Inadequate traffic enforcement,Rush hour,No idea,Yes,Somewhat important,4
+42,Female,Bachelor's degree,25-40,Daily,Weekly,Yes,Yes,Helpful,No,Accident prevention,Inefficient traffic signal management,Rush hour,No idea,Somewhat,Not very important,3
+43,Female,Master's degree,18-25,Daily,Weekly,Yes,Yes,Dangerous,Yes,Autonomous vehicles,Inadequate traffic enforcement,Accidents,Drones,Yes,Very important,4
+44,Prefer not to say,Bachelor's degree,18-25,Daily,Daily,No,No,Dangerous,May be,Smart traffic lights,Inadequate traffic enforcement,Road construction,No idea,Yes,Very important,2
+45,Female,Bachelor's degree,18-25,Daily,Monthly,Yes,Sometimes,Beneficial,Yes,Adaptive traffic control system,None,Road construction,Cameras,Yes,Very important,4
+46,Female,Bachelor's degree,Above 40,Weekly,Weekly,Yes,Yes,Beneficial,May be,Accident prevention,Inadequate traffic enforcement,Accidents,No idea,Somewhat,Somewhat important,3
+47,Female,Bachelor's degree,18-25,Weekly,Rarely,May be,No,Helpful,Yes,Accident prevention,Inefficient traffic signal management,Accidents,Cameras,No,Very important,4
+48,Male,Bachelor's degree,18-25,Daily,Weekly,Yes,No idea,Beneficial,Yes,Adaptive traffic control system,Inefficient traffic signal management,Accidents,Cameras,Yes,Very important,4
+49,Female,Bachelor's degree,18-25,Daily,Daily,May be,Yes,Dangerous,Yes,Adaptive traffic control system,Inefficient traffic signal management,Road construction,Sensors,Yes,Somewhat important,5
+50,Female,Bachelor's degree,18-25,Monthly,Daily,Yes,Sometimes,Helpful,Yes,Accident prevention,Inefficient traffic signal management,Rush hour,Sensors,Yes,Very important,2
+51,Female,High school,18-25,Daily,Daily,May be,No,Helpful,Yes,Autonomous vehicles,Lack of real-time traffic monitoring,Road construction,Sensors,Somewhat,Not very important,1
+52,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Yes,Helpful,Yes,Accident prevention,Lack of real-time traffic monitoring,Road construction,Drones,Yes,Very important,3
+53,Male,Bachelor's degree,18-25,Daily,Rarely,May be,Yes,Helpful,No idea,Adaptive traffic control system,None,Road construction,Sensors,Yes,Very important,4
+54,Male,Bachelor's degree,18-25,Monthly,Weekly,Yes,Yes,Beneficial,Yes,Accident prevention,Inefficient traffic signal management,Rush hour,No idea,Yes,Very important,3
+55,Male,Bachelor's degree,25-40,Daily,Weekly,Yes,Sometimes,Beneficial,Yes,Adaptive traffic control system,Lack of real-time traffic monitoring,Road construction,Cameras,Somewhat,Very important,5
+56,Female,Bachelor's degree,18-25,Rarely,Weekly,Yes,Yes,Beneficial,No idea,Autonomous vehicles,Inefficient traffic signal management,Rush hour,Cameras,Yes,Somewhat important,4
+57,Female,Bachelor's degree,18-25,Monthly,Daily,May be,No,Dangerous,Yes,Accident prevention,Inefficient traffic signal management,Rush hour,Sensors,Yes,Not very important,3
+58,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Yes,Beneficial,May be,Accident prevention,Lack of real-time traffic monitoring,Accidents,Cameras,No,Somewhat important,5
+59,Female,Bachelor's degree,18-25,Rarely,Monthly,Yes,Sometimes,Beneficial,Yes,Smart traffic lights,Inefficient traffic signal management,Accidents,Cameras,Yes,Very important,3
+60,Male,Bachelor's degree,18-25,Monthly,Daily,Yes,Yes,Helpful,No,Autonomous vehicles,Inefficient traffic signal management,Road construction,Sensors,Yes,Somewhat important,5
+61,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Yes,Helpful,Yes,Accident prevention,Inefficient traffic signal management,Road construction,No idea,Yes,Somewhat important,3
+62,Male,High school,18-25,Daily,Rarely,Yes,Sometimes,Beneficial,Yes,Adaptive traffic control system,Inefficient traffic signal management,Road construction,Sensors,Yes,Not very important,4
+63,Female,Bachelor's degree,18-25,Weekly,Daily,May be,Yes,Helpful,Yes,Autonomous vehicles,Inefficient traffic signal management,Accidents,Cameras,No,Not very important,4
+64,Female,Bachelor's degree,18-25,Daily,Weekly,Yes,Yes,No idea,Yes,Smart traffic lights,Inadequate traffic enforcement,Accidents,Sensors,Yes,Not very important,5
+65,Female,Bachelor's degree,18-25,Daily,Rarely,No,Yes,No idea,No,Adaptive traffic control system,Inadequate traffic enforcement,Road construction,No idea,Somewhat,Not very important,4
+66,Female,Bachelor's degree,18-25,Daily,Rarely,Yes,Sometimes,Beneficial,May be,Accident prevention,None,Road construction,No idea,Yes,Somewhat important,4
+67,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Sometimes,Beneficial,May be,Accident prevention,None,Accidents,Sensors,Yes,Very important,5
+68,Female,Bachelor's degree,18-25,Daily,Daily,Yes,No,Beneficial,No idea,Adaptive traffic control system,Inadequate traffic enforcement,Rush hour,Drones,Yes,Not very important,4
+69,Female,Bachelor's degree,18-25,Weekly,Monthly,Sometimes,Yes,Beneficial,May be,Accident prevention,Inefficient traffic signal management,Road construction,Sensors,No,Very important,1
+70,Male,Bachelor's degree,25-40,Monthly,Daily,Yes,No idea,Beneficial,Yes,Accident prevention,Inefficient traffic signal management,Rush hour,Sensors,Yes,Somewhat important,2
+71,Female,Bachelor's degree,18-25,Monthly,Monthly,Yes,No,Beneficial,No,Adaptive traffic control system,Lack of real-time traffic monitoring,Rush hour,No idea,Yes,Somewhat important,3
+72,Prefer not to say,Bachelor's degree,18-25,Daily,Monthly,May be,No idea,Beneficial,Yes,Adaptive traffic control system,Inefficient traffic signal management,Road construction,No idea,Yes,Very important,4
+73,Female,High school,18-25,Monthly,Daily,Yes,Yes,Beneficial,No,Adaptive traffic control system,Inefficient traffic signal management,Rush hour,Sensors,Yes,Very important,4
+74,Male,High school,18-25,Rarely,Daily,Yes,Sometimes,Beneficial,Yes,Accident prevention,Inadequate traffic enforcement,Rush hour,Sensors,Yes,Somewhat important,3
+75,Female,Bachelor's degree,18-25,Rarely,Weekly,Yes,No,Helpful,Yes,Smart traffic lights,Inefficient traffic signal management,Accidents,Sensors,Yes,Very important,3
+76,Female,Bachelor's degree,18-25,Monthly,Daily,Yes,Yes,Helpful,Yes,Autonomous vehicles,None,Road construction,Cameras,Yes,Somewhat important,4
+77,Female,Bachelor's degree,18-25,Daily,Daily,No,Sometimes,No idea,Yes,Accident prevention,Inefficient traffic signal management,Road construction,Cameras,Yes,Somewhat important,4
+78,Female,Bachelor's degree,18-25,Rarely,Rarely,Yes,Sometimes,Beneficial,Yes,Accident prevention,Lack of real-time traffic monitoring,Rush hour,Sensors,Yes,Somewhat important,3
+79,Female,Bachelor's degree,18-25,Weekly,Weekly,Yes,Yes,Beneficial,Yes,Accident prevention,Lack of real-time traffic monitoring,Road construction,Sensors,Yes,Not very important,3
+80,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Yes,Helpful,May be,Adaptive traffic control system,Inadequate traffic enforcement,Rush hour,Drones,Yes,Somewhat important,2
+81,Female,Bachelor's degree,18-25,Daily,Daily,Yes,Sometimes,No idea,May be,Adaptive traffic control system,Inefficient traffic signal management,Road construction,Cameras,Somewhat,Very important,3
+82,Female,Bachelor's degree,Above 40,Daily,Monthly,Sometimes,Yes,Dangerous,No idea,Adaptive traffic control system,Lack of real-time traffic monitoring,Road construction,Drones,Somewhat,Very important,3
+83,Female,Bachelor's degree,25-40,Weekly,Daily,Yes,Yes,No idea,Yes,Accident prevention,Lack of real-time traffic monitoring,Rush hour,Cameras,Yes,Very important,1
+84,Others,Doctoral degree,18-25,Weekly,Monthly,May be,Yes,Helpful,No idea,Adaptive traffic control system,Inefficient traffic signal management,Accidents,Cameras,No,Very important,2
+85,Female,Bachelor's degree,18-25,Weekly,Daily,May be,No,Beneficial,May be,Accident prevention,None,Road construction,No idea,Yes,Somewhat important,3
+86,Male,Bachelor's degree,25-40,Weekly,Weekly,May be,Sometimes,Helpful,Yes,Smart traffic lights,Lack of real-time traffic monitoring,Road construction,Cameras,Yes,Very important,3
+87,Female,Bachelor's degree,Below 18,Daily,Monthly,Yes,Yes,Helpful,May be,Accident prevention,Inefficient traffic signal management,Road construction,Drones,Yes,Somewhat important,5
+88,Male,Bachelor's degree,18-25,Daily,Weekly,May be,Sometimes,Beneficial,Yes,Accident prevention,Lack of real-time traffic monitoring,Rush hour,Sensors,Somewhat,Not very important,4
+89,Female,High school,18-25,Weekly,Weekly,Yes,Yes,Beneficial,Yes,Autonomous vehicles,Lack of real-time traffic monitoring,Accidents,Cameras,Yes,Somewhat important,5
+90,Female,Doctoral degree,18-25,Daily,Weekly,Yes,Sometimes,Beneficial,May be,Accident prevention,Inefficient traffic signal management,Accidents,Cameras,Yes,Somewhat important,4
+91,Female,Master's degree,18-25,Daily,Weekly,May be,Yes,Beneficial,May be,Accident prevention,Inefficient traffic signal management,Rush hour,Sensors,Yes,Very important,3
+92,Female,Bachelor's degree,25-40,Daily,Weekly,Yes,Yes,Dangerous,May be,Smart traffic lights,Inefficient traffic signal management,Road construction,Sensors,Somewhat,Not very important,3
+93,Male,Master's degree,18-25,Daily,Daily,No,Yes,No idea,Yes,Adaptive traffic control system,Inefficient traffic signal management,Accidents,Drones,Yes,Not at all important,3
+94,Male,Bachelor's degree,18-25,Daily,Weekly,No,Yes,Helpful,Yes,Adaptive traffic control system,Lack of real-time traffic monitoring,Rush hour,Sensors,Yes,Very important,1
+95,Male,Bachelor's degree,25-40,Rarely,Daily,Yes,Sometimes,Beneficial,May be,Adaptive traffic control system,Lack of real-time traffic monitoring,Road construction,No idea,Yes,Not very important,3
+96,Female,Bachelor's degree,18-25,Daily,Rarely,Sometimes,Sometimes,Beneficial,Yes,Autonomous vehicles,Lack of real-time traffic monitoring,Rush hour,Sensors,Yes,Very important,3
+97,Male,Bachelor's degree,18-25,Daily,Rarely,Sometimes,Sometimes,Beneficial,Yes,Smart traffic lights,Lack of real-time traffic monitoring,Rush hour,Sensors,Somewhat,Very important,5
+98,Female,Bachelor's degree,18-25,Daily,Weekly,Yes,Yes,Dangerous,Yes,Adaptive traffic control system,Inefficient traffic signal management,Rush hour,Cameras,Somewhat,Somewhat important,3
+99,Female,Bachelor's degree,18-25,Monthly,Rarely,May be,Yes,No idea,May be,Adaptive traffic control system,Inefficient traffic signal management,Road construction,Cameras,Yes,Somewhat important,3
+100,Female,Bachelor's degree,18-25,Daily,Monthly,Yes,Sometimes,Dangerous,May be,Smart traffic lights,Inefficient traffic signal management,Rush hour,Sensors,Yes,Very important,3
