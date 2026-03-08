@@ -30,3 +30,7 @@ This project demonstrates the ability to:
 Convert raw datasets into strategic insights
 Present findings in a stakeholder-friendly format
 Apply analytical thinking to real-world business problems
+## Files in this Project
+
+- `sales.csv` → Dataset used in the dashboard
+- `dashboard.png` → Screenshot of the dashboard
